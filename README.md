@@ -7,7 +7,7 @@
 > **uBlogger** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
 
-It is based on the original [LoveIt Theme](https://github.com/dillonzq/LoveIt).
+It is based on the original [uBlogger theme](https://github.com/upagge/uBlogger) which was based on [LoveIt Theme](https://github.com/dillonzq/LoveIt).
 
 Since the three themes have a similar look, if you have questions about their differences,
 read [Why choose uBlogger](#why-choose-ublogger) so that you can choose the one that works best for you.
